@@ -1,0 +1,10 @@
+lightline.vim
+neobundle.vim
+neocomplete.vim
+syntastic
+vim-hybrid
+vim-markdown
+vim-quickrun
+vim-ref
+vimproc.vim
+vimshell.vim
