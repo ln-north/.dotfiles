@@ -22,10 +22,7 @@ NeoBundle 'Shougo/vimproc.vim', {
       \ }
 
 " general
-NeoBundle 'Shougo/neocomplete.vim' " requires vim compiled with if-lua option
-NeoBundle 'Shougo/vimshell.vim'
 NeoBundle 'thinca/vim-quickrun'
-NeoBundle 'thinca/vim-ref'
 NeoBundle 'tpope/vim-markdown'
 NeoBundle 'scrooloose/syntastic'
 
